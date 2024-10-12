@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vasyl
 - 👀 I’m interested in Computer Technonlogy.
-- 🌱 I’m currently learning  front-end
 - 📫 How to reach me? Linkedin (there is a link in my profile) 
 
 
